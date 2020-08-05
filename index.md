@@ -4,7 +4,7 @@ Welcome to my personal web page.
 
 I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Pathology](https://www6.bordeaux-aquitaine.inrae.fr/bfp_eng/). I work on plant viral metagnomics and develop semantic web solution to integrate heterogeneous biological data.
 
-## :telescope: Past and current projects
+## Past and current projects
 
 [INEXTVIR project](https://inextvir.eu/) (2019-2022)<br/>
 [Plant Health Bioinformatic Network](https://imgge.bg.ac.rs/index.php/en/research/research-areas/plant-mol-biology?layout=edit&id=1951) (2019 - today)<br/>
@@ -15,14 +15,14 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 [VIRVALID project](https://www.geves.fr/research-development/casdar-calls-for-projects/) (2016 - 2019)
 
 
-## :notebook: Tools and Software
+## Tools and Software
 [Vitivir database](https://github.com/edarnige/vitiVir)<br/>
 [VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)<br/>
 [BRAvo](https://github.com/albangaignard/pyBravo)<br/>
 [NMRprocFlow](https://www.nmrprocflow.org/)<br/>
 
 
-## :mortar_board: CV
+## CV
 
 ### Background & position
 **Since October 2017** - Bioinformatic ingineer permanent position at INRAe, Bordeaux, France<br/>
