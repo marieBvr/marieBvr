@@ -5,6 +5,10 @@ Welcome to my personal web page.
 
 I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Pathology](https://www6.bordeaux-aquitaine.inrae.fr/bfp_eng/). I work on plant viral metagnomics and develop semantic web solution to integrate heterogeneous biological data.
 
+<br/>
+<br/>
+---
+
 ## Past and current projects
 
 [INEXTVIR project](https://inextvir.eu/) (2019-2022)<br/>
@@ -17,10 +21,10 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 
 
 ## Tools and Software
-[Vitivir database](https://github.com/edarnige/vitiVir)<br/>
-[VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)<br/>
-[BRAvo](https://github.com/albangaignard/pyBravo)<br/>
-[NMRprocFlow](https://www.nmrprocflow.org/)<br/>
+* [Vitivir database](https://github.com/edarnige/vitiVir)<br/>
+* [VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)<br/>
+* [BRAvo](https://github.com/albangaignard/pyBravo)<br/>
+* [NMRprocFlow](https://www.nmrprocflow.org/)<br/>
 
 
 ## CV
@@ -57,3 +61,4 @@ R package integration in a web interface for the analysis of wheat varietal sele
 
 Mail: marie.lefebvre@inrae.fr<br/>
 Tel: +33 (0) 557 12 23 39
+Twitter: https://twitter.com/LefebvreMarie5
