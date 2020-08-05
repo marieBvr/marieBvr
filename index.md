@@ -16,10 +16,10 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 
 
 ## Tools and Software
-[Vitivir database](https://github.com/edarnige/vitiVir)
-[VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)
-[BRAvo](https://github.com/albangaignard/pyBravo)
-[NMRprocFlow](https://www.nmrprocflow.org/)
+[Vitivir database](https://github.com/edarnige/vitiVir)<br/>
+[VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)<br/>
+[BRAvo](https://github.com/albangaignard/pyBravo)<br/>
+[NMRprocFlow](https://www.nmrprocflow.org/)<br/>
 
 
 ## CV
