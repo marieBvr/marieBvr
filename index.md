@@ -11,8 +11,15 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 [MYCOVIR project](https://www.plan-deperissement-vigne.fr/recherches/programmes-de-recherche/mycovir) (2019 - today)<br/>
 [EVENTS project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-b09306aae1/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=6e05237591a9879d6f3378c3a44c0219) (2018 - today)<br/>
 [COBRA project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-4305539e82/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=0b7a8524a6d535ba8b36123b1f75a7cd) (2018 - today)<br/>
-CATI Bioinformatics for Knowledge Analysis, Representation and Integration (2017 - today)<br/>
+[CATI Bioinformatics for Knowledge Analysis, Representation and Integration](https://www.cesgo.org/catibaric/) (2017 - today)<br/>
 [VIRVALID project](https://www.geves.fr/research-development/casdar-calls-for-projects/) (2016 - 2019)
+
+
+## Tools and Software
+[Vitivir database](https://github.com/edarnige/vitiVir)
+[VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)
+[BRAvo](https://github.com/albangaignard/pyBravo)
+[NMRprocFlow](https://www.nmrprocflow.org/)
 
 
 ## CV
