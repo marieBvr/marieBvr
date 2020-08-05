@@ -62,4 +62,4 @@ R package integration in a web interface for the analysis of wheat varietal sele
 
 Mail: marie.lefebvre@inrae.fr<br/>
 Tel: +33 (0) 557 12 23 39<br/>
-Twitter: https://twitter.com/LefebvreMarie5
+Twitter: [@LefebvreMarie5](https://twitter.com/LefebvreMarie5)
