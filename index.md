@@ -55,6 +55,8 @@ R package integration in a web interface for the analysis of wheat varietal sele
 
 
 ### Education & training
+**2020** - Hackaton Galaxy Interactive Tools (GEOC)
+
 **2017** - High-performance computing Course (Bordeaux Computing Center)
 
 **2015** - Tools integration for GALAXY (IFB Galaxy group)
