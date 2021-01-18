@@ -31,7 +31,7 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 ## CV
 
 ### Background & position
-**October 2020-March 2021** - Long term mission at the Bioinformatics Group, Wageningen University and Research, NL
+**October 2020-March 2021** - Long term mission at the Bioinformatics Group, Wageningen University and Research, NL<br/>
 I was awarded a Staff Exchange Grant from the [ELIXIR project](https://elixir-europe.org/about-us/staff-exchange-programme) to:
  - integrate the [virAnnot pipeline](doi:10.1094/PBIOMES-07-19-0037-A) in the GALAXY environment to make viral metagenomics analyses easily accessible for all the community
  - develop a method to prioritize the genes of a QTL region in order to identify more precisely the causal gene affecting trait
