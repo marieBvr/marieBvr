@@ -9,6 +9,14 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 <br/>
 ------
 
+## Contact
+
+Mail: marie.lefebvre@inrae.fr<br/>
+Tel: +33 (0) 557 12 23 39<br/>
+Twitter: [@LefebvreMarie5](https://twitter.com/LefebvreMarie5)
+ORCID: [0000-0002-3093-5873](https://orcid.org/0000-0002-3093-5873)
+
+
 ## Past and current projects
 
 [INEXTVIR project](https://inextvir.eu/) (2019-2022)<br/>
@@ -24,8 +32,11 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 * [COBRA database](https://github.com/marieBvr/COBRAsuite)
 * [Vitivir database](https://github.com/edarnige/vitiVir)<br/>
 * [VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)<br/>
-* [BRAvo](https://github.com/albangaignard/pyBravo)<br/>
+* [BRAvo](https://github.com/pyBRAvo/pyBRAvo)<br/>
 * [NMRprocFlow](https://www.nmrprocflow.org/)<br/>
+
+## Publications
+Find more about my lastest publication on [HAL portal](https://cv.archives-ouvertes.fr/marie-lefebvre)
 
 
 ## CV
@@ -65,8 +76,4 @@ R package integration in a web interface for the analysis of wheat varietal sele
 
 **2012** - Licence’s degree: Biology, Geosciences, Chemistry (Nantes, france) Option: Environmental Biology
 
-## Contact
 
-Mail: marie.lefebvre@inrae.fr<br/>
-Tel: +33 (0) 557 12 23 39<br/>
-Twitter: [@LefebvreMarie5](https://twitter.com/LefebvreMarie5)
