@@ -13,7 +13,7 @@ I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Patholog
 
 Mail: marie.lefebvre@inrae.fr<br/>
 Tel: +33 (0) 557 12 23 39<br/>
-Twitter: [@LefebvreMarie5](https://twitter.com/LefebvreMarie5)
+Twitter: [@LefebvreMarie5](https://twitter.com/LefebvreMarie5)<br/>
 ORCID: [0000-0002-3093-5873](https://orcid.org/0000-0002-3093-5873)
 
 
