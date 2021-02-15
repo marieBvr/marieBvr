@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" src="static/profile.jpg">
+<!--img align="right" src="static/profile.jpg"-->
 Welcome to my personal web page.
 
 I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Pathology](https://www6.bordeaux-aquitaine.inrae.fr/bfp_eng/). I work on plant viral metagnomics and develop semantic web solution to integrate heterogeneous biological data.
