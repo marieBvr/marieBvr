@@ -19,7 +19,8 @@ ORCID: [0000-0002-3093-5873](https://orcid.org/0000-0002-3093-5873)
 
 ## Past and current projects
 
-[INEXTVIR project](https://inextvir.eu/) (2019-2022)<br/>
+[PHYTOVIRUS project](https://anr.fr/Projet-ANR-19-CE35-0008) (2020 - 2024)<br/>
+[INEXTVIR project](https://inextvir.eu/) (2019 - 2022)<br/>
 [Plant Health Bioinformatics Network](https://imgge.bg.ac.rs/index.php/en/research/research-areas/plant-mol-biology?layout=edit&id=1951) (2019 - today)<br/>
 [MYCOVIR project](https://www.plan-deperissement-vigne.fr/recherches/programmes-de-recherche/mycovir) (2019 - today)<br/>
 [EVENTS project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-b09306aae1/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=6e05237591a9879d6f3378c3a44c0219) (2018 - today)<br/>
@@ -29,7 +30,8 @@ ORCID: [0000-0002-3093-5873](https://orcid.org/0000-0002-3093-5873)
 
 
 ## Tools and Software
-* [COBRA database](https://github.com/marieBvr/COBRAsuite)
+* [TEGRiP: Transposable Elements Genes RelationshIps Pipeline](https://github.com/marieBvr/TEs_genes_relationship_pipeline)<br/>
+* [COBRA database](https://github.com/marieBvr/COBRAsuite)<br/>
 * [Vitivir database](https://github.com/edarnige/vitiVir)<br/>
 * [VirAnnot pipeline](https://doi.org/10.1094/PBIOMES-07-19-0037-A)<br/>
 * [BRAvo](https://github.com/pyBRAvo/pyBRAvo)<br/>
@@ -42,14 +44,15 @@ Find more about my lastest publication on [HAL portal](https://cv.archives-ouver
 ## CV
 
 ### Background & position
-**October 2020-March 2021** - Long term mission at the Bioinformatics Group, Wageningen University and Research, NL<br/>
-I was awarded a Staff Exchange Grant from the [ELIXIR project](https://elixir-europe.org/about-us/staff-exchange-programme) to:
- - integrate the [virAnnot pipeline](doi:10.1094/PBIOMES-07-19-0037-A) in the GALAXY environment to make viral metagenomics analyses easily accessible for all the community
- - develop a method to prioritize the genes of a QTL region in order to identify more precisely the causal gene affecting trait
-
 **Since October 2017** - Bioinformatics ingineer permanent position at INRAe, Bordeaux, France<br/>
 Development of virAnnot pipeline for viral metagenomic analyses.
 Databases and web interfaces development for plant viruses.
+
+
+**October 2020-March 2021** - Long term mission at the Bioinformatics Group, Wageningen University and Research, NL<br/>
+I was awarded a Staff Exchange Grant from the [ELIXIR project](https://elixir-europe.org/about-us/staff-exchange-programme) to:
+ - integrate the [virAnnot pipeline](doi:10.1094/PBIOMES-07-19-0037-A) in the GALAXY environment to make viral metagenomics analyses easily accessible for all the community
+ - develop a method to prioritize the genes of an eQTL region in order to identify more precisely the causal gene affecting trait, see [AraQTL](https://www.bioinformatics.nl/AraQTLld)
 
 
 **2016-2017** - Bioinformatics ingineer - LS2N Combinatory and Informatic, Nantes, France<br/>
@@ -66,6 +69,8 @@ R package integration in a web interface for the analysis of wheat varietal sele
 
 
 ### Education & training
+**2021** - IFB open science and PGD (IFB)
+
 **2020** - Hackaton Galaxy Interactive Tools (GEOC)
 
 **2017** - High-performance computing Course (Bordeaux Computing Center)
