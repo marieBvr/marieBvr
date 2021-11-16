@@ -19,11 +19,12 @@ ORCID: [0000-0002-3093-5873](https://orcid.org/0000-0002-3093-5873)
 
 ## Past and current projects
 
+[VITAE project](https://www.inrae.fr/actualites/cultiver-vigne-pesticides-lancement-du-projet-vitae) (2021 - 2026)<br />
 [PHYTOVIRUS project](https://anr.fr/Projet-ANR-19-CE35-0008) (2020 - 2024)<br/>
 [INEXTVIR project](https://inextvir.eu/) (2019 - 2022)<br/>
 [Plant Health Bioinformatics Network](https://imgge.bg.ac.rs/index.php/en/research/research-areas/plant-mol-biology?layout=edit&id=1951) (2019 - today)<br/>
-[MYCOVIR project](https://www.plan-deperissement-vigne.fr/recherches/programmes-de-recherche/mycovir) (2019 - today)<br/>
-[EVENTS project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-b09306aae1/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=6e05237591a9879d6f3378c3a44c0219) (2018 - today)<br/>
+[MYCOVIR project](https://www.plan-deperissement-vigne.fr/recherches/programmes-de-recherche/mycovir) (2019 - 2022)<br/>
+[EVENTS project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-b09306aae1/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=6e05237591a9879d6f3378c3a44c0219) (2017 - 2020)<br/>
 [COBRA project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-4305539e82/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=0b7a8524a6d535ba8b36123b1f75a7cd) (2018 - today)<br/>
 [CATI Bioinformatics for Knowledge Analysis, Representation and Integration](https://www.cesgo.org/catibaric/) (2017 - today)<br/>
 [VIRVALID project](https://www.geves.fr/research-development/casdar-calls-for-projects/) (2016 - 2019)
