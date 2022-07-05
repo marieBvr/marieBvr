@@ -53,7 +53,7 @@ Databases and web interfaces development for plant viruses.
 **October 2020-March 2021** - Long term mission at the Bioinformatics Group, Wageningen University and Research, NL<br/>
 I was awarded a Staff Exchange Grant from the [ELIXIR project](https://elixir-europe.org/about-us/staff-exchange-programme) to:
  - integrate the [virAnnot pipeline](doi:10.1094/PBIOMES-07-19-0037-A) in the GALAXY environment to make viral metagenomics analyses easily accessible for all the community
- - develop a method to prioritize the genes of an eQTL region in order to identify more precisely the causal gene affecting trait, see [AraQTL](https://www.bioinformatics.nl/AraQTLld)
+ - develop a method to prioritize the genes of an eQTL region in order to identify more precisely the causal gene affecting trait, using semantic web. See [AraQTL](https://www.bioinformatics.nl/AraQTLld)
 
 
 **2016-2017** - Bioinformatics Engineer - LS2N Combinatory and Informatic, Nantes, France<br/>
