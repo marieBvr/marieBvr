@@ -3,7 +3,7 @@
 <!--img align="right" src="static/profile.jpg"-->
 Welcome to my personal web page.
 
-I am currently a Bioinformatics Ingineer at [INRAe Biology of Fruit and Pathology](https://www6.bordeaux-aquitaine.inrae.fr/bfp_eng/). I work on plant viral metagnomics and develop semantic web solution to integrate heterogeneous biological data.
+I am currently a Bioinformatics Engineer at [INRAe Biology of Fruit and Pathology](https://www6.bordeaux-aquitaine.inrae.fr/bfp_eng/). I work on plant viral metagnomics and develop semantic web solution to integrate heterogeneous biological data.
 
 <br/>
 <br/>
@@ -45,7 +45,7 @@ Find more about my lastest publication on [HAL portal](https://cv.archives-ouver
 ## CV
 
 ### Background & position
-**Since October 2017** - Bioinformatics ingineer permanent position at INRAe, Bordeaux, France<br/>
+**Since October 2017** - Bioinformatics Engineer permanent position at INRAe, Bordeaux, France<br/>
 Development of virAnnot pipeline for viral metagenomic analyses.
 Databases and web interfaces development for plant viruses.
 
@@ -56,11 +56,11 @@ I was awarded a Staff Exchange Grant from the [ELIXIR project](https://elixir-eu
  - develop a method to prioritize the genes of an eQTL region in order to identify more precisely the causal gene affecting trait, see [AraQTL](https://www.bioinformatics.nl/AraQTLld)
 
 
-**2016-2017** - Bioinformatics ingineer - LS2N Combinatory and Informatic, Nantes, France<br/>
+**2016-2017** - Bioinformatics Engineer - LS2N Combinatory and Informatic, Nantes, France<br/>
 Algorithm and web interface development for heterogeneous data integration through linked open data and semantic web (BioPAX model). [SyMeTRIC Project](http://symetric.univ-nantes.fr/doku.php)
 
 
-**2014-2016** - Bioinformatics ingineer - INRAe Biology of Fruit and Pathology, Bordeaux, France<br/>
+**2014-2016** - Bioinformatics Engineer - INRAe Biology of Fruit and Pathology, Bordeaux, France<br/>
 Database and Web interface development for NMR spectra and metadata. [Metabohub Project](https://www.metabohub.fr/home.html)<br/>
 Tool integration for Galaxy Workflow4Metabolomics
 
