@@ -3,7 +3,7 @@
 <!--img align="right" src="static/profile.jpg"-->
 Welcome to my personal web page.
 
-I am currently a Bioinformatics Engineer at [INRAe Biology of Fruit and Pathology](https://www6.bordeaux-aquitaine.inrae.fr/bfp_eng/). I work on plant viral metagnomics and develop semantic web solution to integrate heterogeneous biological data.
+I am currently a Bioinformatics Engineer at [INRAE Human Nutrition Research Unit](https://www6.clermont.inrae.fr/unh_eng/) and the [Exploration of Metabolism Platform](https://eng-pfem.isc.inrae.fr/) . I develop semantic web solution to integrate heterogeneous biological data, with the purpose of discovering new biomarkers and/or new nutritional strategies to support a long lifespan in good health.
 
 <br/>
 <br/>
@@ -19,14 +19,15 @@ ORCID: [0000-0002-3093-5873](https://orcid.org/0000-0002-3093-5873)
 
 ## Past and current projects
 
+[METABOHUB](https://www.metabohub.fr/home.html) (2013 - 2024)<br />
 [VITAE project](https://www.inrae.fr/actualites/cultiver-vigne-pesticides-lancement-du-projet-vitae) (2021 - 2026)<br />
 [PHYTOVIRUS project](https://anr.fr/Projet-ANR-19-CE35-0008) (2020 - 2024)<br/>
 [INEXTVIR project](https://inextvir.eu/) (2019 - 2022)<br/>
-[Plant Health Bioinformatics Network](https://imgge.bg.ac.rs/index.php/en/research/research-areas/plant-mol-biology?layout=edit&id=1951) (2019 - today)<br/>
+[Plant Health Bioinformatics Network](https://imgge.bg.ac.rs/en/?view=article&id=1951:plant-health-bioinformatics-network&catid=47) (2019 - 2022)<br/>
 [MYCOVIR project](https://www.plan-deperissement-vigne.fr/recherches/programmes-de-recherche/mycovir) (2019 - 2022)<br/>
 [EVENTS project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-b09306aae1/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=6e05237591a9879d6f3378c3a44c0219) (2017 - 2020)<br/>
-[COBRA project](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-4305539e82/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=0b7a8524a6d535ba8b36123b1f75a7cd) (2018 - today)<br/>
-[CATI Bioinformatics for Knowledge Analysis, Representation and Integration](https://www.cesgo.org/catibaric/) (2017 - today)<br/>
+[COBRA project suite](https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-4305539e82/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=0b7a8524a6d535ba8b36123b1f75a7cd) (2018 - 2022)<br/>
+[CATI Bioinformatics for Knowledge Analysis, Representation and Integration](https://www.cesgo.org/catibaric/) (2018 - 2023)<br/>
 [VIRVALID project](https://www.geves.fr/research-development/casdar-calls-for-projects/) (2016 - 2019)
 
 
@@ -45,7 +46,11 @@ Find more about my lastest publication on [HAL portal](https://cv.archives-ouver
 ## CV
 
 ### Background & position
-**Since October 2017** - Bioinformatics Engineer permanent position at INRAe, Bordeaux, France<br/>
+**Febuary 2023-Today** - Bioinformatics Engineer permanent position at INRAE, Clermont-Ferrand, France<br/>
+Data management and structuring (semantic web) as well as creation of web portals of phenotypic data, 
+development of strategies to use these data to facilitate their valorisation.
+
+**October 2017-January 2023** - Bioinformatics Engineer permanent position at INRAE, Bordeaux, France<br/>
 Development of virAnnot pipeline for viral metagenomic analyses.
 Databases and web interfaces development for plant viruses.
 
@@ -60,7 +65,7 @@ I was awarded a Staff Exchange Grant from the [ELIXIR project](https://elixir-eu
 Algorithm and web interface development for heterogeneous data integration through linked open data and semantic web (BioPAX model). [SyMeTRIC Project](http://symetric.univ-nantes.fr/doku.php)
 
 
-**2014-2016** - Bioinformatics Engineer - INRAe Biology of Fruit and Pathology, Bordeaux, France<br/>
+**2014-2016** - Bioinformatics Engineer - INRA Biology of Fruit and Pathology, Bordeaux, France<br/>
 Database and Web interface development for NMR spectra and metadata. [Metabohub Project](https://www.metabohub.fr/home.html)<br/>
 Tool integration for Galaxy Workflow4Metabolomics
 
