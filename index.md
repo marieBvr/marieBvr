@@ -1,6 +1,6 @@
 ## About me
 
-<!--img align="right" src="static/profile.jpg"-->
+<img align="right" src="static/profile.jpg">
 Welcome to my personal web page.
 
 I am currently a Bioinformatics Engineer at [INRAE Human Nutrition Research Unit](https://www6.clermont.inrae.fr/unh_eng/) and the [Exploration of Metabolism Platform](https://eng-pfem.isc.inrae.fr/) . I develop semantic web solution to integrate heterogeneous biological data, with the purpose of discovering new biomarkers and/or new nutritional strategies to support a long lifespan in good health.
